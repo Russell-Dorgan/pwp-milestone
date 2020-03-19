@@ -4,7 +4,6 @@
 	<meta charset="UTF-8">
 	<title><strong> Identifiers for a Successful Business: Purpose, Audience, Goal, Clientele Type </strong></title>
 </head>
-<p>
 
 	<h1><strong> Purpose </strong> </h1>
 
@@ -49,7 +48,7 @@
 			<li>Since these are limited pressed vinyl with high demand they will go fast, to make sure you're able to catch the records right on release stay connected to our social medias (Instagram, Twitter) for release date and times in multiple time formats. </li>
 		</ul>
 
-</body>
+
 </html>
 
 

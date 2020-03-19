@@ -3,7 +3,6 @@
 <head>
 	<meta charset="UTF-8">
 	<title><strong> Identifiers for a Successful Business: Purpose, Audience, Goal, Clientele Type </strong></title>
-</head>
 
 	<h1><strong> Purpose </strong> </h1>
 

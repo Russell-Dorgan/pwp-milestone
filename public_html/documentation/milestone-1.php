@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title><strong> Identifiers for a Successful Business: Purpose, Audience, Goal, Clientele Type </strong></title>
-	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="milestone-1-styles.css">
 
 	<h1><strong> Purpose </strong> </h1>
 
@@ -12,13 +12,13 @@
 		</ul>
 
 
-
 	<h2><strong> Audience </strong></h2>
 
 		<ul>
 			<li>Someone who would be viewing my site is an enthusiast if high-fidelity lossless audio.</li>
 			<li>My audience would be comprised of appreciators of good music pressed on quality vinyl.</li>
 		</ul>
+
 
 	<h3><strong> Goal </strong></h3>
 
@@ -38,12 +38,16 @@
 			<li><strong>Scenario they will use my site:</strong> Will use my site to purchase one of their favorite, latest underground albums that will get pressed up on 180 gram vinyl by our company. </li>
 		</ul>
 
+
 	<h5><strong> Frustrations that may be exhibited </strong></h5>
+
 		<ul>
 			<li>Since our company will be based in the USA if they live abroad IE Europe shipping will be about $27 vs $5 domestic so could cause some consumer complaints. </li>
 		</ul>
 
+
 	<h6><strong> Additional Info needed to achieve goal</strong></h6>
+
 		<ul>
 			<li>Since these are limited pressed vinyl with high demand they will go fast, to make sure you're able to catch the records right on release stay connected to our social medias (Instagram, Twitter) for release date and times in multiple time zones. </li>
 		</ul>

@@ -44,7 +44,7 @@
 
 	<h6><strong> Additional Info needed to achieve goal</strong></h6>
 		<ul>
-			<li>Since these are limited pressed vinyl with high demand they will go fast, to make sure you're able to catch the records right on release stay connected to our social medias (Instagram, Twitter) for release date and times in multiple time formats. </li>
+			<li>Since these are limited pressed vinyl with high demand they will go fast, to make sure you're able to catch the records right on release stay connected to our social medias (Instagram, Twitter) for release date and times in multiple time zones. </li>
 		</ul>
 
 

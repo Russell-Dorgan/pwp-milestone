@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title><strong> Identifiers for a Successful Business: Purpose, Audience, Goal, Clientele Type </strong></title>
+	<title> Identifiers for a Successful Business: Purpose, Audience, Goal, Clientele Type </title>
 	<link rel="stylesheet" href="milestone-1-styles.css">
 
 	<h1><strong> Purpose </strong> </h1>
